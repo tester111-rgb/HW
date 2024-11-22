@@ -1,0 +1,15 @@
+003Lcd
+
+VS Code or Arduino IDE
+
+Arduino IDE > Library Manager > <LiquidCrystal_I2C.h>
+
+Examples > LiquidCrystal_I2C > Hello World
+
+Proteus > Arduino Uno, LM016L, PCF8574
+
+Address > Select Board (Arduino Uno or ESP32) > Wire > Scan
+
+Wokwi
+
+Created file names: 1. 003Lcd_proteus 2. 003Lcd_wokwi 3. 003LcdDht. Upload to GitHub.
