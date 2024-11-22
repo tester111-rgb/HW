@@ -12,4 +12,4 @@ Address > Select Board (Arduino Uno or ESP32) > Wire > Scan
 
 Wokwi
 
-Created file names: 1. 003Lcd_proteus 2. 003Lcd_wokwi 3. 003LcdDht. Upload to GitHub.
+Created file names: 1. 003Lcd_proteus 2. 003Lcd_wokwi ( link) 3. 003LcdDht. Upload to GitHub.
